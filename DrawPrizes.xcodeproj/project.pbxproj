@@ -3,31 +3,69 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FC0FF635246DE4E3006616F9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC0FF634246DE4E3006616F9 /* AppDelegate.swift */; };
-		FC0FF637246DE4E3006616F9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC0FF636246DE4E3006616F9 /* SceneDelegate.swift */; };
-		FC0FF639246DE4E3006616F9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC0FF638246DE4E3006616F9 /* ViewController.swift */; };
-		FC0FF63C246DE4E3006616F9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC0FF63A246DE4E3006616F9 /* Main.storyboard */; };
-		FC0FF63E246DE4E5006616F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC0FF63D246DE4E5006616F9 /* Assets.xcassets */; };
-		FC0FF641246DE4E5006616F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC0FF63F246DE4E5006616F9 /* LaunchScreen.storyboard */; };
+		FBE30C688590A582DDABF3C3 /* Pods_DrawPrizes.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0B8F90380A1B905B1B75AE14 /* Pods_DrawPrizes.framework */; };
+		FC0FF659246DE540006616F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC0FF649246DE540006616F9 /* Assets.xcassets */; };
+		FC0FF65A246DE540006616F9 /* ViewController+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC0FF64A246DE540006616F9 /* ViewController+Extension.swift */; };
+		FC0FF65B246DE540006616F9 /* DrawButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC0FF64B246DE540006616F9 /* DrawButton.swift */; };
+		FC0FF65C246DE540006616F9 /* View+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC0FF64C246DE540006616F9 /* View+Extension.swift */; };
+		FC0FF65D246DE540006616F9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC0FF64F246DE540006616F9 /* AppDelegate.swift */; };
+		FC0FF65F246DE540006616F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC0FF652246DE540006616F9 /* LaunchScreen.storyboard */; };
+		FC0FF660246DE540006616F9 /* NumberSortViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC0FF653246DE540006616F9 /* NumberSortViewController.swift */; };
+		FC0FF661246DE540006616F9 /* DrawSuccess.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC0FF654246DE540006616F9 /* DrawSuccess.swift */; };
+		FC0FF662246DE540006616F9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC0FF655246DE540006616F9 /* Main.storyboard */; };
+		FC0FF663246DE540006616F9 /* ItemSortViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC0FF656246DE540006616F9 /* ItemSortViewController.swift */; };
+		FC0FF664246DE540006616F9 /* DrawSuccess.xib in Resources */ = {isa = PBXBuildFile; fileRef = FC0FF657246DE540006616F9 /* DrawSuccess.xib */; };
+		FC0FF665246DE540006616F9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC0FF658246DE540006616F9 /* SceneDelegate.swift */; };
+		FC0FF6DB24707122006616F9 /* DrawPrizesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC0FF6DA24707122006616F9 /* DrawPrizesTests.swift */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		FC0FF6DD24707122006616F9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FC0FF629246DE4E3006616F9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FC0FF630246DE4E3006616F9;
+			remoteInfo = DrawPrizes;
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
+		0B8F90380A1B905B1B75AE14 /* Pods_DrawPrizes.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DrawPrizes.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DE74C49D112ED8CEBD6D0351 /* Pods-DrawPrizes.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DrawPrizes.release.xcconfig"; path = "Target Support Files/Pods-DrawPrizes/Pods-DrawPrizes.release.xcconfig"; sourceTree = "<group>"; };
+		F2E90CCDE30BA774F7E15A20 /* Pods-DrawPrizes.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DrawPrizes.debug.xcconfig"; path = "Target Support Files/Pods-DrawPrizes/Pods-DrawPrizes.debug.xcconfig"; sourceTree = "<group>"; };
 		FC0FF631246DE4E3006616F9 /* DrawPrizes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DrawPrizes.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		FC0FF634246DE4E3006616F9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		FC0FF636246DE4E3006616F9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		FC0FF638246DE4E3006616F9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		FC0FF63B246DE4E3006616F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		FC0FF63D246DE4E5006616F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		FC0FF640246DE4E5006616F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		FC0FF642246DE4E5006616F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FC0FF649246DE540006616F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FC0FF64A246DE540006616F9 /* ViewController+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ViewController+Extension.swift"; sourceTree = "<group>"; };
+		FC0FF64B246DE540006616F9 /* DrawButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrawButton.swift; sourceTree = "<group>"; };
+		FC0FF64C246DE540006616F9 /* View+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "View+Extension.swift"; sourceTree = "<group>"; };
+		FC0FF64F246DE540006616F9 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		FC0FF650246DE540006616F9 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FC0FF652246DE540006616F9 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FC0FF653246DE540006616F9 /* NumberSortViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NumberSortViewController.swift; sourceTree = "<group>"; };
+		FC0FF654246DE540006616F9 /* DrawSuccess.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrawSuccess.swift; sourceTree = "<group>"; };
+		FC0FF655246DE540006616F9 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		FC0FF656246DE540006616F9 /* ItemSortViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemSortViewController.swift; sourceTree = "<group>"; };
+		FC0FF657246DE540006616F9 /* DrawSuccess.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DrawSuccess.xib; sourceTree = "<group>"; };
+		FC0FF658246DE540006616F9 /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		FC0FF6D824707122006616F9 /* DrawPrizesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DrawPrizesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FC0FF6DA24707122006616F9 /* DrawPrizesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawPrizesTests.swift; sourceTree = "<group>"; };
+		FC0FF6DC24707122006616F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		FC0FF62E246DE4E3006616F9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FBE30C688590A582DDABF3C3 /* Pods_DrawPrizes.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FC0FF6D524707122006616F9 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,11 +75,31 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		606E1FCDBD9F30A0A58C1FA6 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				F2E90CCDE30BA774F7E15A20 /* Pods-DrawPrizes.debug.xcconfig */,
+				DE74C49D112ED8CEBD6D0351 /* Pods-DrawPrizes.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		D3793202CECC230A7F1D8576 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0B8F90380A1B905B1B75AE14 /* Pods_DrawPrizes.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		FC0FF628246DE4E3006616F9 = {
 			isa = PBXGroup;
 			children = (
 				FC0FF633246DE4E3006616F9 /* DrawPrizes */,
+				FC0FF6D924707122006616F9 /* DrawPrizesTests */,
 				FC0FF632246DE4E3006616F9 /* Products */,
+				606E1FCDBD9F30A0A58C1FA6 /* Pods */,
+				D3793202CECC230A7F1D8576 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -49,6 +107,7 @@
 			isa = PBXGroup;
 			children = (
 				FC0FF631246DE4E3006616F9 /* DrawPrizes.app */,
+				FC0FF6D824707122006616F9 /* DrawPrizesTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -56,15 +115,62 @@
 		FC0FF633246DE4E3006616F9 /* DrawPrizes */ = {
 			isa = PBXGroup;
 			children = (
-				FC0FF634246DE4E3006616F9 /* AppDelegate.swift */,
-				FC0FF636246DE4E3006616F9 /* SceneDelegate.swift */,
-				FC0FF638246DE4E3006616F9 /* ViewController.swift */,
-				FC0FF63A246DE4E3006616F9 /* Main.storyboard */,
-				FC0FF63D246DE4E5006616F9 /* Assets.xcassets */,
-				FC0FF63F246DE4E5006616F9 /* LaunchScreen.storyboard */,
-				FC0FF642246DE4E5006616F9 /* Info.plist */,
+				FC0FF64E246DE540006616F9 /* App */,
+				FC0FF64D246DE540006616F9 /* Base.lproj */,
+				FC0FF648246DE540006616F9 /* Model */,
+				FC0FF651246DE540006616F9 /* View */,
 			);
 			path = DrawPrizes;
+			sourceTree = "<group>";
+		};
+		FC0FF648246DE540006616F9 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				FC0FF649246DE540006616F9 /* Assets.xcassets */,
+				FC0FF64A246DE540006616F9 /* ViewController+Extension.swift */,
+				FC0FF64B246DE540006616F9 /* DrawButton.swift */,
+				FC0FF64C246DE540006616F9 /* View+Extension.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FC0FF64D246DE540006616F9 /* Base.lproj */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Base.lproj;
+			sourceTree = "<group>";
+		};
+		FC0FF64E246DE540006616F9 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				FC0FF64F246DE540006616F9 /* AppDelegate.swift */,
+				FC0FF650246DE540006616F9 /* Info.plist */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		FC0FF651246DE540006616F9 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				FC0FF652246DE540006616F9 /* LaunchScreen.storyboard */,
+				FC0FF653246DE540006616F9 /* NumberSortViewController.swift */,
+				FC0FF654246DE540006616F9 /* DrawSuccess.swift */,
+				FC0FF655246DE540006616F9 /* Main.storyboard */,
+				FC0FF656246DE540006616F9 /* ItemSortViewController.swift */,
+				FC0FF657246DE540006616F9 /* DrawSuccess.xib */,
+				FC0FF658246DE540006616F9 /* SceneDelegate.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		FC0FF6D924707122006616F9 /* DrawPrizesTests */ = {
+			isa = PBXGroup;
+			children = (
+				FC0FF6DA24707122006616F9 /* DrawPrizesTests.swift */,
+				FC0FF6DC24707122006616F9 /* Info.plist */,
+			);
+			path = DrawPrizesTests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,9 +180,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = FC0FF645246DE4E5006616F9 /* Build configuration list for PBXNativeTarget "DrawPrizes" */;
 			buildPhases = (
+				23B03FBF3385DA727ACE16F4 /* [CP] Check Pods Manifest.lock */,
 				FC0FF62D246DE4E3006616F9 /* Sources */,
 				FC0FF62E246DE4E3006616F9 /* Frameworks */,
 				FC0FF62F246DE4E3006616F9 /* Resources */,
+				049D6548F73A8C9A59FAD2B8 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -86,6 +194,24 @@
 			productName = DrawPrizes;
 			productReference = FC0FF631246DE4E3006616F9 /* DrawPrizes.app */;
 			productType = "com.apple.product-type.application";
+		};
+		FC0FF6D724707122006616F9 /* DrawPrizesTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FC0FF6DF24707122006616F9 /* Build configuration list for PBXNativeTarget "DrawPrizesTests" */;
+			buildPhases = (
+				FC0FF6D424707122006616F9 /* Sources */,
+				FC0FF6D524707122006616F9 /* Frameworks */,
+				FC0FF6D624707122006616F9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FC0FF6DE24707122006616F9 /* PBXTargetDependency */,
+			);
+			name = DrawPrizesTests;
+			productName = DrawPrizesTests;
+			productReference = FC0FF6D824707122006616F9 /* DrawPrizesTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
@@ -99,6 +225,10 @@
 				TargetAttributes = {
 					FC0FF630246DE4E3006616F9 = {
 						CreatedOnToolsVersion = 11.4.1;
+					};
+					FC0FF6D724707122006616F9 = {
+						CreatedOnToolsVersion = 11.4.1;
+						TestTargetID = FC0FF630246DE4E3006616F9;
 					};
 				};
 			};
@@ -116,6 +246,7 @@
 			projectRoot = "";
 			targets = (
 				FC0FF630246DE4E3006616F9 /* DrawPrizes */,
+				FC0FF6D724707122006616F9 /* DrawPrizesTests */,
 			);
 		};
 /* End PBXProject section */
@@ -125,45 +256,97 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FC0FF641246DE4E5006616F9 /* LaunchScreen.storyboard in Resources */,
-				FC0FF63E246DE4E5006616F9 /* Assets.xcassets in Resources */,
-				FC0FF63C246DE4E3006616F9 /* Main.storyboard in Resources */,
+				FC0FF65F246DE540006616F9 /* LaunchScreen.storyboard in Resources */,
+				FC0FF659246DE540006616F9 /* Assets.xcassets in Resources */,
+				FC0FF664246DE540006616F9 /* DrawSuccess.xib in Resources */,
+				FC0FF662246DE540006616F9 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FC0FF6D624707122006616F9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		049D6548F73A8C9A59FAD2B8 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-DrawPrizes/Pods-DrawPrizes-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-DrawPrizes/Pods-DrawPrizes-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-DrawPrizes/Pods-DrawPrizes-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		23B03FBF3385DA727ACE16F4 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-DrawPrizes-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		FC0FF62D246DE4E3006616F9 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FC0FF639246DE4E3006616F9 /* ViewController.swift in Sources */,
-				FC0FF635246DE4E3006616F9 /* AppDelegate.swift in Sources */,
-				FC0FF637246DE4E3006616F9 /* SceneDelegate.swift in Sources */,
+				FC0FF65D246DE540006616F9 /* AppDelegate.swift in Sources */,
+				FC0FF660246DE540006616F9 /* NumberSortViewController.swift in Sources */,
+				FC0FF65A246DE540006616F9 /* ViewController+Extension.swift in Sources */,
+				FC0FF65C246DE540006616F9 /* View+Extension.swift in Sources */,
+				FC0FF65B246DE540006616F9 /* DrawButton.swift in Sources */,
+				FC0FF661246DE540006616F9 /* DrawSuccess.swift in Sources */,
+				FC0FF663246DE540006616F9 /* ItemSortViewController.swift in Sources */,
+				FC0FF665246DE540006616F9 /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FC0FF6D424707122006616F9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FC0FF6DB24707122006616F9 /* DrawPrizesTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
-/* Begin PBXVariantGroup section */
-		FC0FF63A246DE4E3006616F9 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				FC0FF63B246DE4E3006616F9 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
+/* Begin PBXTargetDependency section */
+		FC0FF6DE24707122006616F9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FC0FF630246DE4E3006616F9 /* DrawPrizes */;
+			targetProxy = FC0FF6DD24707122006616F9 /* PBXContainerItemProxy */;
 		};
-		FC0FF63F246DE4E5006616F9 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				FC0FF640246DE4E5006616F9 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
+/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		FC0FF643246DE4E5006616F9 /* Debug */ = {
@@ -282,11 +465,12 @@
 		};
 		FC0FF646246DE4E5006616F9 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = F2E90CCDE30BA774F7E15A20 /* Pods-DrawPrizes.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = YH7K6PQM2C;
-				INFOPLIST_FILE = DrawPrizes/Info.plist;
+				INFOPLIST_FILE = DrawPrizes/App/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -300,11 +484,12 @@
 		};
 		FC0FF647246DE4E5006616F9 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = DE74C49D112ED8CEBD6D0351 /* Pods-DrawPrizes.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = YH7K6PQM2C;
-				INFOPLIST_FILE = DrawPrizes/Info.plist;
+				INFOPLIST_FILE = DrawPrizes/App/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -313,6 +498,46 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		FC0FF6E024707122006616F9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = YH7K6PQM2C;
+				INFOPLIST_FILE = DrawPrizesTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = rco.DrawPrizesTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DrawPrizes.app/DrawPrizes";
+			};
+			name = Debug;
+		};
+		FC0FF6E124707122006616F9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = YH7K6PQM2C;
+				INFOPLIST_FILE = DrawPrizesTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = rco.DrawPrizesTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DrawPrizes.app/DrawPrizes";
 			};
 			name = Release;
 		};
@@ -333,6 +558,15 @@
 			buildConfigurations = (
 				FC0FF646246DE4E5006616F9 /* Debug */,
 				FC0FF647246DE4E5006616F9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FC0FF6DF24707122006616F9 /* Build configuration list for PBXNativeTarget "DrawPrizesTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FC0FF6E024707122006616F9 /* Debug */,
+				FC0FF6E124707122006616F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

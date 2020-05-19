@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "df24821738668e5e8b4f0ad94d17c88d"
+build_time: [1589655981, 11439000]
+inputs:
+  "/Users/rafaelcunhadeoliveira/Documents/DrawPrizes/DrawPrizesTests/DrawPrizesTests.swift": [1589655970, 321028212]

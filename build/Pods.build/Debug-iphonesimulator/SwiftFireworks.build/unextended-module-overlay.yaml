@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/rafaelcunhadeoliveira/Documents/DrawPrizes/build/Debug-iphonesimulator/SwiftFireworks/SwiftFireworks.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/rafaelcunhadeoliveira/Documents/DrawPrizes/build/Pods.build/Debug-iphonesimulator/SwiftFireworks.build/unextended-module.modulemap",
+    }]
+  }]
+}

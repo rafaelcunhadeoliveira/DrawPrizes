@@ -1,0 +1,16 @@
+PODS:
+  - SwiftFireworks (0.1.0)
+
+DEPENDENCIES:
+  - SwiftFireworks
+
+SPEC REPOS:
+  trunk:
+    - SwiftFireworks
+
+SPEC CHECKSUMS:
+  SwiftFireworks: 63447e004fea5db5856a56065f4f0d2df23715b1
+
+PODFILE CHECKSUM: 5c76932f4c743e2241060fdaedd49f30ebc95b62
+
+COCOAPODS: 1.8.4
