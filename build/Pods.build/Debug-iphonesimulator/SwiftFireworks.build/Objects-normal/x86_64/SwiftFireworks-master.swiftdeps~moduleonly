@@ -1,5 +1,5 @@
-version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
-options: "14a831e4fb0c2805e3b1ad9b7ebd3e26"
-build_time: [1589489301, 31224000]
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "bdb3941d1ab3e7c40935516c69a3f2d3"
+build_time: [1590887642, 666312000]
 inputs:
   "/Users/rafaelcunhadeoliveira/Documents/DrawPrizes/Pods/SwiftFireworks/SwiftFireworks/Classes/SwiftFireworks.swift": [1589489121, 50039372]
