@@ -14,7 +14,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		inbHyBuLH2NrogDxkU3J4AF6r5g=
+		q/sBgBdn/ZPKqmUhsZtGcvXRiLY=
 		</data>
 		<key>DrawSuccess.nib</key>
 		<data>
@@ -22,19 +22,68 @@
 		</data>
 		<key>Frameworks/SwiftFireworks.framework/Info.plist</key>
 		<data>
-		ruXDCcgMQdH1SuaEczI8YQpsYuI=
+		Kr58KUxwLdtW3Zh88Y0xxq4/ZV8=
 		</data>
 		<key>Frameworks/SwiftFireworks.framework/SwiftFireworks</key>
 		<data>
-		PV9E0oGBYlPRcK7Ji4xuHZIeE0g=
+		QLyLaXbeTFa989S0Hg1wogddeSE=
 		</data>
 		<key>Frameworks/SwiftFireworks.framework/_CodeSignature/CodeResources</key>
 		<data>
-		u5oydIzYCEDv2dUubxCqWN3tGjI=
+		I9SdSxRfnhshlgmTDOe0xr4lSUc=
+		</data>
+		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
+		<data>
+		ImIT5BeqNP3FFEQk8wRroeYy9c4=
+		</data>
+		<key>Frameworks/XCTAutomationSupport.framework/XCTAutomationSupport</key>
+		<data>
+		oRKGsULQjBxuTyk+KH3I5qNPF5Y=
+		</data>
+		<key>Frameworks/XCTAutomationSupport.framework/_CodeSignature/CodeResources</key>
+		<data>
+		1WP0mip5chcK8Wmd8mPjvfYLxt0=
+		</data>
+		<key>Frameworks/XCTAutomationSupport.framework/version.plist</key>
+		<data>
+		HO0pA0XBHOd7/0HybiKQjh2X26Y=
+		</data>
+		<key>Frameworks/XCTest.framework/Info.plist</key>
+		<data>
+		Zx0ihKNmRPycybBG79N1qpR9gUg=
+		</data>
+		<key>Frameworks/XCTest.framework/XCTest</key>
+		<data>
+		Iqv2CUu7BILopHiUVIkMRiLik+M=
+		</data>
+		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
+		<data>
+		O5DcqfPSMryMSeEjYb1oatHXvfE=
+		</data>
+		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TuBj57ZP6zBqcL9HttO2Rucaw9E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/XCTest.framework/version.plist</key>
+		<data>
+		HO0pA0XBHOd7/0HybiKQjh2X26Y=
+		</data>
+		<key>Frameworks/libXCTestBundleInject.dylib</key>
+		<data>
+		PUvIVvodMbnzJ/2b823EWBJ2S3M=
+		</data>
+		<key>Frameworks/libXCTestSwiftSupport.dylib</key>
+		<data>
+		JkrThg9rkZuYPP3Bhoubb8lBg6I=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		oESJDwwI2XiIp1etRGLm+2m+Dvk=
+		kAuCROex7mJtN+9EZKE+XbKnDyw=
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -68,6 +117,18 @@
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
 		</data>
+		<key>PlugIns/DrawPrizesTests.xctest/DrawPrizesTests</key>
+		<data>
+		qFRyTP90zbGuAsBq8hChwAiA3sU=
+		</data>
+		<key>PlugIns/DrawPrizesTests.xctest/Info.plist</key>
+		<data>
+		jgeLMvKlLtny8wOD/4MEVBm0e+M=
+		</data>
+		<key>PlugIns/DrawPrizesTests.xctest/_CodeSignature/CodeResources</key>
+		<data>
+		L/cleNBeChCeDCuogHWZgN8rkvw=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -89,7 +150,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mFVjXDZ3zSFH9uXVEsqYZkpTxpNTT1ZazyM/ZcIIsks=
+			nHDVmzkQl7UoDi92qz2rCVKm5OC3rHAnUE66lSYwBXc=
 			</data>
 		</dict>
 		<key>DrawSuccess.nib</key>
@@ -103,21 +164,100 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yiy6e+/6G8THOo4ZsJKl7XVp9Ntx7RphZ4ldtxFWWgY=
+			d/TJt7ca6MsCe6gKHY/aMb6IPWfzOUqGXnzGMpBzeGc=
 			</data>
 		</dict>
 		<key>Frameworks/SwiftFireworks.framework/SwiftFireworks</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ExzJt4QNp895BsFiO5mFTZSTfy8f/NSIuBFqCYUB06g=
+			OkmfQJQopW/jkJm9iel/sgn+B+w4G34OgXYUJKlj1dE=
 			</data>
 		</dict>
 		<key>Frameworks/SwiftFireworks.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GxzQU4WalOjuha8+BrECe4xfIM5cuRLD8k2nYmehcNI=
+			THlkl8kSOUt2eYbPtUvLRgas7RGqnQNirYxwOTkMU1c=
+			</data>
+		</dict>
+		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MxoOhHCCsYBJhfnW1MsvULLaXVJm9knE3ZN3JPyTbeo=
+			</data>
+		</dict>
+		<key>Frameworks/XCTAutomationSupport.framework/XCTAutomationSupport</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ngjqd+JI/tej+f7fl8ZS4s1Umn50Ho1qBNjWlX+v3oo=
+			</data>
+		</dict>
+		<key>Frameworks/XCTAutomationSupport.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oTFHJBf04svPiDVyiTbfM6cDbT+BhpYRUa6/0HipNQI=
+			</data>
+		</dict>
+		<key>Frameworks/XCTAutomationSupport.framework/version.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bPnNIREvGcYcn3TpzBZDJbcwLrW3Y2ZWQp74fWQCRMw=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RE/6NaZEsItCX9Gs4z8E5qTfR2jIECWHyHVL04DcTNs=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/XCTest</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YYAyEJdfXiCzveob60OCsjdpEmCsSTVSOEX0PbdSgto=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Z3xn5o7M+KEHgBrsISmXXe1l2NrrN4umu+BBj+cnjwA=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			89RGkjZaKuewYnjpzwhIswhqfrU8+pcEXqM/DHVrUmo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/XCTest.framework/version.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bPnNIREvGcYcn3TpzBZDJbcwLrW3Y2ZWQp74fWQCRMw=
+			</data>
+		</dict>
+		<key>Frameworks/libXCTestBundleInject.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			03/QHFEhkjLVkuYwiRsJcH3VOZ2fKFtxCkIhfqxL/0U=
+			</data>
+		</dict>
+		<key>Frameworks/libXCTestSwiftSupport.dylib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			46uv6RI9+EUJCEOzGXir20mqi9THPo3PTbBKTnSQXCA=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -167,6 +307,27 @@
 			<key>hash2</key>
 			<data>
 			RmfDbhR4e17unu7VmxaAC50qZZCFLHF5ALgr5cY1KNc=
+			</data>
+		</dict>
+		<key>PlugIns/DrawPrizesTests.xctest/DrawPrizesTests</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VbMViq0UP3yZENQevoUqtWnDuHC+ioB6Rnsdeh8xEDE=
+			</data>
+		</dict>
+		<key>PlugIns/DrawPrizesTests.xctest/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			72jv2+OjMNUy7/RKsae7hTO5+imzdc8wMyHmEJ2YMa8=
+			</data>
+		</dict>
+		<key>PlugIns/DrawPrizesTests.xctest/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OAHxNu2sT+bAAhc6HaEmGZjGoweyl3TnYu3mfCmuU+g=
 			</data>
 		</dict>
 	</dict>

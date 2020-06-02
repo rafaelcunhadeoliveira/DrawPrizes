@@ -28,10 +28,5 @@ class DrawButton: UIButton {
         clipsToBounds = true
         backgroundColor = .systemBlue
         self.setTitleColor(.white, for: .normal)
-        border()
-    }
-
-    func border() {
-       
     }
 }

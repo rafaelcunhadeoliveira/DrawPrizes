@@ -1,12 +1,12 @@
-version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
-options: "f830c2cc55dca4a762f724d43fce47a8"
-build_time: [1589573729, 315111000]
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "acac89c286382b0b7fb9cff6c85f0433"
+build_time: [1591019048, 444358000]
 inputs:
   "/Users/rafaelcunhadeoliveira/Documents/DrawPrizes/DrawPrizes/App/AppDelegate.swift": [1589489214, 440326622]
   "/Users/rafaelcunhadeoliveira/Documents/DrawPrizes/DrawPrizes/View/NumberSortViewController.swift": [1589573624, 482104027]
   "/Users/rafaelcunhadeoliveira/Documents/DrawPrizes/DrawPrizes/Model/ViewController+Extension.swift": [1589573729, 198679166]
   "/Users/rafaelcunhadeoliveira/Documents/DrawPrizes/DrawPrizes/Model/View+Extension.swift": [1589489214, 404116448]
-  "/Users/rafaelcunhadeoliveira/Documents/DrawPrizes/DrawPrizes/Model/DrawButton.swift": [1589489214, 415037887]
+  "/Users/rafaelcunhadeoliveira/Documents/DrawPrizes/DrawPrizes/Model/DrawButton.swift": [1591019047, 910569259]
   "/Users/rafaelcunhadeoliveira/Documents/DrawPrizes/DrawPrizes/View/DrawSuccess.swift": [1589489214, 387014892]
   "/Users/rafaelcunhadeoliveira/Documents/DrawPrizes/DrawPrizes/View/ItemSortViewController.swift": [1589573624, 520460538]
   "/Users/rafaelcunhadeoliveira/Documents/DrawPrizes/DrawPrizes/View/SceneDelegate.swift": [1589489214, 368014588]

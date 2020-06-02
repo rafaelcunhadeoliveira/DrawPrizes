@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/SwiftFireworks-Swift.h</key>
 		<data>
-		0r5HjcQLjpGVSbBDPIfg3uztznA=
+		BchAQDlNmFHuCZNSBa4dn7EpVqo=
 		</data>
 		<key>Headers/SwiftFireworks-umbrella.h</key>
 		<data>
@@ -14,31 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ruXDCcgMQdH1SuaEczI8YQpsYuI=
+		Kr58KUxwLdtW3Zh88Y0xxq4/ZV8=
 		</data>
 		<key>Modules/SwiftFireworks.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		oXuVkK/URQHQpvKVwyMsfjTAcrU=
+		09zm4sLczEJVq2WQcila/X73unM=
 		</data>
 		<key>Modules/SwiftFireworks.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		oXuVkK/URQHQpvKVwyMsfjTAcrU=
+		09zm4sLczEJVq2WQcila/X73unM=
 		</data>
 		<key>Modules/SwiftFireworks.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		yobxlywotV7bcb0+tGbz8ATZ0Oc=
+		attLJaJW6tFmdfTptTJ1IyZshBE=
 		</data>
 		<key>Modules/SwiftFireworks.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GJvHoFlhrsOfji8Ys7fCUN0KyUU=
+		2GmA/USOrkOl9bzTcjbLyDFivdA=
 		</data>
 		<key>Modules/SwiftFireworks.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		yobxlywotV7bcb0+tGbz8ATZ0Oc=
+		attLJaJW6tFmdfTptTJ1IyZshBE=
 		</data>
 		<key>Modules/SwiftFireworks.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		GJvHoFlhrsOfji8Ys7fCUN0KyUU=
+		2GmA/USOrkOl9bzTcjbLyDFivdA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -51,11 +51,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0r5HjcQLjpGVSbBDPIfg3uztznA=
+			BchAQDlNmFHuCZNSBa4dn7EpVqo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ayyEKAnGZUBwxs+WEJNlJaK/rQ7HU4K88dU8zQtvxGA=
+			Jr3BZ3FsDnwXOisOLFGO7mM2hOxeUtVwW95rAVM70Yo=
 			</data>
 		</dict>
 		<key>Headers/SwiftFireworks-umbrella.h</key>
@@ -73,66 +73,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oXuVkK/URQHQpvKVwyMsfjTAcrU=
+			09zm4sLczEJVq2WQcila/X73unM=
 			</data>
 			<key>hash2</key>
 			<data>
-			xN2juhT6MsyKJu42cCHAHQbG7rLqRJHaNJkc4jaZIVA=
+			Nkcvm2bOoQ7JcPXR7879duezqtD9vvNFWYe93AyFk04=
 			</data>
 		</dict>
 		<key>Modules/SwiftFireworks.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oXuVkK/URQHQpvKVwyMsfjTAcrU=
+			09zm4sLczEJVq2WQcila/X73unM=
 			</data>
 			<key>hash2</key>
 			<data>
-			xN2juhT6MsyKJu42cCHAHQbG7rLqRJHaNJkc4jaZIVA=
+			Nkcvm2bOoQ7JcPXR7879duezqtD9vvNFWYe93AyFk04=
 			</data>
 		</dict>
 		<key>Modules/SwiftFireworks.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yobxlywotV7bcb0+tGbz8ATZ0Oc=
+			attLJaJW6tFmdfTptTJ1IyZshBE=
 			</data>
 			<key>hash2</key>
 			<data>
-			96lyjy2f1VtVoa4hODYIGfUgRoYbbmwl4z2y7tTFu7M=
+			eBdRZ94Urv4c9TMa5zaX/hbf5TLesmHkUuJ00cBOTnI=
 			</data>
 		</dict>
 		<key>Modules/SwiftFireworks.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GJvHoFlhrsOfji8Ys7fCUN0KyUU=
+			2GmA/USOrkOl9bzTcjbLyDFivdA=
 			</data>
 			<key>hash2</key>
 			<data>
-			mvTBbV1QXWVaNRk0iuQdloPfQdRlkgwk8LoIugXbtKQ=
+			VXgkDphqCAVLQtJYVlKpB0StLYt5n8Ly5m2WqGHXdd8=
 			</data>
 		</dict>
 		<key>Modules/SwiftFireworks.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yobxlywotV7bcb0+tGbz8ATZ0Oc=
+			attLJaJW6tFmdfTptTJ1IyZshBE=
 			</data>
 			<key>hash2</key>
 			<data>
-			96lyjy2f1VtVoa4hODYIGfUgRoYbbmwl4z2y7tTFu7M=
+			eBdRZ94Urv4c9TMa5zaX/hbf5TLesmHkUuJ00cBOTnI=
 			</data>
 		</dict>
 		<key>Modules/SwiftFireworks.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GJvHoFlhrsOfji8Ys7fCUN0KyUU=
+			2GmA/USOrkOl9bzTcjbLyDFivdA=
 			</data>
 			<key>hash2</key>
 			<data>
-			mvTBbV1QXWVaNRk0iuQdloPfQdRlkgwk8LoIugXbtKQ=
+			VXgkDphqCAVLQtJYVlKpB0StLYt5n8Ly5m2WqGHXdd8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -90,6 +90,7 @@ depends-member:
 - !private ["s7CVarArgP", "endEditing"]
 - !private ["s7CVarArgP", "frame"]
 - !private ["s7CVarArgP", "gradientView"]
+- !private ["s7CVarArgP", "hideKeyboardTouch"]
 - !private ["s7CVarArgP", "init"]
 - !private ["s7CVarArgP", "isEmpty"]
 - !private ["s7CVarArgP", "isHidden"]
@@ -150,6 +151,7 @@ depends-member:
 - !private ["s28CustomDebugStringConvertibleP", "endEditing"]
 - !private ["s28CustomDebugStringConvertibleP", "frame"]
 - !private ["s28CustomDebugStringConvertibleP", "gradientView"]
+- !private ["s28CustomDebugStringConvertibleP", "hideKeyboardTouch"]
 - !private ["s28CustomDebugStringConvertibleP", "init"]
 - !private ["s28CustomDebugStringConvertibleP", "isEmpty"]
 - !private ["s28CustomDebugStringConvertibleP", "isHidden"]
@@ -219,6 +221,7 @@ depends-member:
 - !private ["s23CustomStringConvertibleP", "endEditing"]
 - !private ["s23CustomStringConvertibleP", "frame"]
 - !private ["s23CustomStringConvertibleP", "gradientView"]
+- !private ["s23CustomStringConvertibleP", "hideKeyboardTouch"]
 - !private ["s23CustomStringConvertibleP", "init"]
 - !private ["s23CustomStringConvertibleP", "isEmpty"]
 - !private ["s23CustomStringConvertibleP", "isHidden"]
@@ -280,6 +283,7 @@ depends-member:
 - ["10DrawPrizes15DismissDelegateP", ""]
 - !private ["10DrawPrizes15DismissDelegateP", "countLabel"]
 - ["10DrawPrizes15DismissDelegateP", "dismiss"]
+- !private ["10DrawPrizes15DismissDelegateP", "hideKeyboardTouch"]
 - !private ["10DrawPrizes15DismissDelegateP", "itemTextField"]
 - !private ["10DrawPrizes15DismissDelegateP", "names"]
 - ["10DrawPrizes15DismissDelegateP", "numberOfSections"]
@@ -339,6 +343,7 @@ depends-member:
 - !private ["SQ", "endEditing"]
 - !private ["SQ", "frame"]
 - !private ["SQ", "gradientView"]
+- !private ["SQ", "hideKeyboardTouch"]
 - !private ["SQ", "init"]
 - !private ["SQ", "isEmpty"]
 - !private ["SQ", "isHidden"]
@@ -411,6 +416,7 @@ depends-member:
 - !private ["SH", "endEditing"]
 - !private ["SH", "frame"]
 - !private ["SH", "gradientView"]
+- !private ["SH", "hideKeyboardTouch"]
 - !private ["SH", "init"]
 - !private ["SH", "isEmpty"]
 - !private ["SH", "isHidden"]
@@ -459,6 +465,7 @@ depends-member:
 - ["10DrawPrizes22ItemSortViewControllerC", "countLabel"]
 - ["10DrawPrizes22ItemSortViewControllerC", "deinit"]
 - ["10DrawPrizes22ItemSortViewControllerC", "dismiss"]
+- !private ["10DrawPrizes22ItemSortViewControllerC", "hideKeyboardTouch"]
 - ["10DrawPrizes22ItemSortViewControllerC", "init"]
 - ["10DrawPrizes22ItemSortViewControllerC", "itemTextField"]
 - ["10DrawPrizes22ItemSortViewControllerC", "names"]
@@ -503,6 +510,7 @@ depends-member:
 - !private ["So8NSCodingP", "endEditing"]
 - !private ["So8NSCodingP", "frame"]
 - !private ["So8NSCodingP", "gradientView"]
+- !private ["So8NSCodingP", "hideKeyboardTouch"]
 - !private ["So8NSCodingP", "init"]
 - !private ["So8NSCodingP", "isEmpty"]
 - !private ["So8NSCodingP", "isHidden"]
@@ -541,6 +549,7 @@ depends-member:
 - ["So26NSExtensionRequestHandlingP", ""]
 - !private ["So26NSExtensionRequestHandlingP", "countLabel"]
 - ["So26NSExtensionRequestHandlingP", "dismiss"]
+- !private ["So26NSExtensionRequestHandlingP", "hideKeyboardTouch"]
 - !private ["So26NSExtensionRequestHandlingP", "itemTextField"]
 - !private ["So26NSExtensionRequestHandlingP", "names"]
 - ["So26NSExtensionRequestHandlingP", "numberOfSections"]
@@ -591,6 +600,7 @@ depends-member:
 - !private ["So8NSObjectC", "endEditing"]
 - !private ["So8NSObjectC", "frame"]
 - !private ["So8NSObjectC", "gradientView"]
+- !private ["So8NSObjectC", "hideKeyboardTouch"]
 - ["So8NSObjectC", "init"]
 - !private ["So8NSObjectC", "isEmpty"]
 - !private ["So8NSObjectC", "isHidden"]
@@ -636,6 +646,7 @@ depends-member:
 - !private ["So8NSObjectP", "endEditing"]
 - !private ["So8NSObjectP", "frame"]
 - !private ["So8NSObjectP", "gradientView"]
+- !private ["So8NSObjectP", "hideKeyboardTouch"]
 - !private ["So8NSObjectP", "init"]
 - !private ["So8NSObjectP", "isEmpty"]
 - !private ["So8NSObjectP", "isHidden"]
@@ -761,6 +772,7 @@ depends-member:
 - !private ["So21UIAppearanceContainerP", "endEditing"]
 - !private ["So21UIAppearanceContainerP", "frame"]
 - !private ["So21UIAppearanceContainerP", "gradientView"]
+- !private ["So21UIAppearanceContainerP", "hideKeyboardTouch"]
 - !private ["So21UIAppearanceContainerP", "init"]
 - !private ["So21UIAppearanceContainerP", "isHidden"]
 - !private ["So21UIAppearanceContainerP", "itemTextField"]
@@ -796,6 +808,7 @@ depends-member:
 - ["So18UIContentContainerP", ""]
 - !private ["So18UIContentContainerP", "countLabel"]
 - ["So18UIContentContainerP", "dismiss"]
+- !private ["So18UIContentContainerP", "hideKeyboardTouch"]
 - !private ["So18UIContentContainerP", "itemTextField"]
 - !private ["So18UIContentContainerP", "names"]
 - ["So18UIContentContainerP", "numberOfSections"]
@@ -871,6 +884,7 @@ depends-member:
 - !private ["So18UIFocusEnvironmentP", "endEditing"]
 - !private ["So18UIFocusEnvironmentP", "frame"]
 - !private ["So18UIFocusEnvironmentP", "gradientView"]
+- !private ["So18UIFocusEnvironmentP", "hideKeyboardTouch"]
 - !private ["So18UIFocusEnvironmentP", "init"]
 - !private ["So18UIFocusEnvironmentP", "isHidden"]
 - !private ["So18UIFocusEnvironmentP", "itemTextField"]
@@ -977,6 +991,7 @@ depends-member:
 - !private ["So30UIPasteConfigurationSupportingP", "endEditing"]
 - !private ["So30UIPasteConfigurationSupportingP", "frame"]
 - !private ["So30UIPasteConfigurationSupportingP", "gradientView"]
+- !private ["So30UIPasteConfigurationSupportingP", "hideKeyboardTouch"]
 - !private ["So30UIPasteConfigurationSupportingP", "init"]
 - !private ["So30UIPasteConfigurationSupportingP", "isHidden"]
 - !private ["So30UIPasteConfigurationSupportingP", "itemTextField"]
@@ -1026,6 +1041,7 @@ depends-member:
 - !private ["So11UIResponderC", "endEditing"]
 - !private ["So11UIResponderC", "frame"]
 - !private ["So11UIResponderC", "gradientView"]
+- !private ["So11UIResponderC", "hideKeyboardTouch"]
 - ["So11UIResponderC", "init"]
 - !private ["So11UIResponderC", "isHidden"]
 - ["So11UIResponderC", "itemTextField"]
@@ -1067,6 +1083,7 @@ depends-member:
 - !private ["So30UIResponderStandardEditActionsP", "endEditing"]
 - !private ["So30UIResponderStandardEditActionsP", "frame"]
 - !private ["So30UIResponderStandardEditActionsP", "gradientView"]
+- !private ["So30UIResponderStandardEditActionsP", "hideKeyboardTouch"]
 - !private ["So30UIResponderStandardEditActionsP", "init"]
 - !private ["So30UIResponderStandardEditActionsP", "isHidden"]
 - !private ["So30UIResponderStandardEditActionsP", "itemTextField"]
@@ -1105,6 +1122,7 @@ depends-member:
 - ["So16UIStateRestoringP", ""]
 - !private ["So16UIStateRestoringP", "countLabel"]
 - ["So16UIStateRestoringP", "dismiss"]
+- !private ["So16UIStateRestoringP", "hideKeyboardTouch"]
 - !private ["So16UIStateRestoringP", "itemTextField"]
 - !private ["So16UIStateRestoringP", "names"]
 - ["So16UIStateRestoringP", "numberOfSections"]
@@ -1138,6 +1156,7 @@ depends-member:
 - ["So21UITableViewDataSourceP", ""]
 - !private ["So21UITableViewDataSourceP", "countLabel"]
 - ["So21UITableViewDataSourceP", "dismiss"]
+- !private ["So21UITableViewDataSourceP", "hideKeyboardTouch"]
 - !private ["So21UITableViewDataSourceP", "itemTextField"]
 - !private ["So21UITableViewDataSourceP", "names"]
 - ["So21UITableViewDataSourceP", "numberOfSections"]
@@ -1172,6 +1191,7 @@ depends-member:
 - !private ["So18UITraitEnvironmentP", "endEditing"]
 - !private ["So18UITraitEnvironmentP", "frame"]
 - !private ["So18UITraitEnvironmentP", "gradientView"]
+- !private ["So18UITraitEnvironmentP", "hideKeyboardTouch"]
 - !private ["So18UITraitEnvironmentP", "init"]
 - !private ["So18UITraitEnvironmentP", "isHidden"]
 - !private ["So18UITraitEnvironmentP", "itemTextField"]
@@ -1212,6 +1232,7 @@ depends-member:
 - !private ["So23UIUserActivityRestoringP", "endEditing"]
 - !private ["So23UIUserActivityRestoringP", "frame"]
 - !private ["So23UIUserActivityRestoringP", "gradientView"]
+- !private ["So23UIUserActivityRestoringP", "hideKeyboardTouch"]
 - !private ["So23UIUserActivityRestoringP", "init"]
 - !private ["So23UIUserActivityRestoringP", "isHidden"]
 - !private ["So23UIUserActivityRestoringP", "itemTextField"]
@@ -1271,6 +1292,7 @@ depends-member:
 - ["So16UIViewControllerC", "addButton"]
 - ["So16UIViewControllerC", "countLabel"]
 - ["So16UIViewControllerC", "dismiss"]
+- !private ["So16UIViewControllerC", "hideKeyboardTouch"]
 - ["So16UIViewControllerC", "init"]
 - ["So16UIViewControllerC", "itemTextField"]
 - ["So16UIViewControllerC", "names"]
@@ -1330,6 +1352,7 @@ depends-member:
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "endEditing"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "frame"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "gradientView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hideKeyboardTouch"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "isEmpty"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "isHidden"]
@@ -1374,6 +1397,7 @@ depends-member:
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "endEditing"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "frame"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "gradientView"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "hideKeyboardTouch"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isEmpty"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isHidden"]
@@ -1567,17 +1591,17 @@ depends-external:
 - "/Users/rafaelcunhadeoliveira/Documents/DrawPrizes/build/Debug-iphonesimulator/SwiftFireworks/SwiftFireworks.framework/Headers/SwiftFireworks-umbrella.h"
 - "/Users/rafaelcunhadeoliveira/Documents/DrawPrizes/build/Debug-iphonesimulator/SwiftFireworks/SwiftFireworks.framework/Headers/SwiftFireworks-Swift.h"
 - "/Users/rafaelcunhadeoliveira/Documents/DrawPrizes/build/Debug-iphonesimulator/SwiftFireworks/SwiftFireworks.framework/Modules/module.modulemap"
-- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
-- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
-- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
-- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
-- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
-- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/usr/include/Darwin.apinotes"
-- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
-- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
-- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
-- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
-- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
-- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.5.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
 interface-hash: "2ae2374c75c5b07518a316ccf7183e1d"
